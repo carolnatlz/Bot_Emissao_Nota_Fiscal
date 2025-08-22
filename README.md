@@ -1,4 +1,4 @@
-<H1>Programa para Emissão Automática de NF no Site Nota Carioca</H1>
+<H1>Programa para Emissão Automática de NFe no Site Nota Carioca</H1>
 
 O programa (complete_program.py) roda um frontend de fácil usabilidade conforme o print abaixo:
 
