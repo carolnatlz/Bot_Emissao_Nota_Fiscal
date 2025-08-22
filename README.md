@@ -36,6 +36,7 @@ A tabela em excel deve seguir a seguinte estrutura:
 - O nome de pessoas que não são do RJ precisa estar completo
 - É necessário ter uma coluna de status, que deve ser deixada em branco para que o bot preencha se foi emitido ou não.
 
+<p> 4. No quarto passo, o usuário deve clicar na checkbox para validar que está com o navegador aberto para habilitar o botão para rodar a automação.</p>
 
 
 
