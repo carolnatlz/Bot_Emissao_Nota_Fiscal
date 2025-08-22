@@ -39,7 +39,21 @@ A tabela em excel deve seguir a seguinte estrutura:
 <p> 4. No quarto passo, o usuário deve clicar na checkbox para validar que está com o navegador aberto para habilitar o botão para rodar a automação.</p>
 <img width="610" height="114" alt="Screenshot 2025-08-22 at 03 01 16" src="https://github.com/user-attachments/assets/5f5adad5-549f-4025-bd74-6e0910cb0e66" />
 
+<br>
+
 Ao final da automação será salvo um arquivo em excel (.xlsx) com a coluna "status" preenchida com: (1) emitido ou (2) não emitido.
+
+<p>
+<hr>
+
+<p> O arquivo teste_webdriver.py pode ser utilizado para realizar um "teste unitário" em relação à conexão entre a IDE e o Chrome, 
+pois existem diversas questões e erros possíveis em relação ao uso do autoinstaller, além de permissionamentos dos próprios sistemas operacionais.
+Dessa forma, o output esperado desse arquivo é apenas o Chrome ser capaz de abrir ao rodar o programa e escrever "funcionou!!" na barra de pesquisa do Google, conforme print: </p>
+
+<img width="710" height="467" alt="Screenshot 2025-08-22 at 03 11 02" src="https://github.com/user-attachments/assets/98c6f9ed-ff5b-47d6-9d76-5e5adf5bce15" />
+
+
+
 
 
 
