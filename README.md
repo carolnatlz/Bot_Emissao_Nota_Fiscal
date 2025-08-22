@@ -37,8 +37,9 @@ A tabela em excel deve seguir a seguinte estrutura:
 - É necessário ter uma coluna de status, que deve ser deixada em branco para que o bot preencha se foi emitido ou não.
 
 <p> 4. No quarto passo, o usuário deve clicar na checkbox para validar que está com o navegador aberto para habilitar o botão para rodar a automação.</p>
+<img width="610" height="114" alt="Screenshot 2025-08-22 at 03 01 16" src="https://github.com/user-attachments/assets/5f5adad5-549f-4025-bd74-6e0910cb0e66" />
 
-
+Ao final da automação será salvo um arquivo em excel (.xlsx) com a coluna "status" preenchida com: (1) emitido ou (2) não emitido.
 
 
 
